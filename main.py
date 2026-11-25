@@ -1,11 +1,11 @@
 """One Line, Big Laugh — make.fun entry.
 
-Entry text: 118 characters (limit 200).
+Entry text: 117 characters (limit 200).
 """
 
 import os
 
-ENTRY = 'My fitness tracker congratulated me for sleeping eight hours, then reminded me I burned fewer calories than the couch.'
+ENTRY = 'My fitness tracker congratulated me on eight hours of sleep, then reminded me I burned fewer calories than the couch.'
 
 
 def main():

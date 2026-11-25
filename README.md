@@ -6,7 +6,7 @@
 
 Bounty: https://make.fun/bounty/u-coral-404-one-line-big-laugh-328fb857
 
-> My fitness tracker congratulated me for sleeping eight hours, then reminded me I burned fewer calories than the couch.
+> My fitness tracker congratulated me on eight hours of sleep, then reminded me I burned fewer calories than the couch.
 
 ## Run
 
